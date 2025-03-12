@@ -1,7 +1,13 @@
 {
     "folders": [
         {
-            "path": "../","name": "PlantUML Formatter"
+            "path": "../",
+            "name": "PlantUML Formatter"
         },
-    ]
+    ],
+    "settings": {
+        "cSpell.words": [
+            "plantumlfmt"
+        ]
+    }
 }
