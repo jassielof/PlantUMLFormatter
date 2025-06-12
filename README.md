@@ -1,2 +1,3 @@
-# plantumlfmt
+# PlantUML Formatter
+
 PlantUML formatter

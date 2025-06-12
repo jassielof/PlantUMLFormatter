@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="PlantUMLFormatter.Core.csproj" />
+    <ProjectReference Include="..\PlantUMLFormatter.Core\PlantUMLFormatter.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
