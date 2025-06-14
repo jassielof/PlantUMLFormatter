@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -9,6 +9,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantUMLFormatter.Diagrams", "PlantUMLFormatter.Diagrams\PlantUMLFormatter.Diagrams.csproj", "{427765C1-9344-C235-98AD-E1C35FCDA843}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantUMLFormatter.Config", "PlantUMLFormatter.Config\PlantUMLFormatter.Config.csproj", "{19CCAA3C-75A9-C31B-EC79-F64E88B49B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantUMLFormatter.Tests", "PlantUMLFormatter.Tests\PlantUMLFormatter.Tests.csproj", "{A397B742-EBD8-487F-9057-49819562CC72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{19CCAA3C-75A9-C31B-EC79-F64E88B49B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19CCAA3C-75A9-C31B-EC79-F64E88B49B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19CCAA3C-75A9-C31B-EC79-F64E88B49B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A397B742-EBD8-487F-9057-49819562CC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A397B742-EBD8-487F-9057-49819562CC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A397B742-EBD8-487F-9057-49819562CC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A397B742-EBD8-487F-9057-49819562CC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
